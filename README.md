@@ -5,8 +5,9 @@
 To prepare, please do the following. It's a bit annoying, but you only have to do it once.
 
 1. install `git` on your machine
-	1. [http://git-scm.com/about](http://git-scm.com/about)
-	2. Windows: git bash (https://gitforwindows.org)
+	1. For Windows users: Install git bash (https://gitforwindows.org)
+    1. For Mac users: Install git via homebrew ([http://git-scm.com/about](http://git-scm.com/about))
+    1. For Linux users: Install via your favorite means ([http://git-scm.com/about](http://git-scm.com/about))
 2. Create an account on www.github.com
 3. configure your git locally, so people online can see who made the changes:
 
@@ -20,6 +21,7 @@ git config --global user.email "your@email.de"
 Simply put 'git workshop' as note, and give it an expiration time of 30 days. Click on the `repo` checkbox. Copy the generated token and store it safely. Don't worry, if you lose it you can create a new one.
 
 ---
+
 # what are we gonna do today?
 
 1. explain git and github
